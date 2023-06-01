@@ -7,8 +7,9 @@
 
 In this research we tried to develop 2 Convolutional Neural Networks, both of which leverage thoracic X-ray images to predict the presence of cardiomegaly disease in a patient. 
 
-**File CNN1.ipynb corresponds to the notebook of Architecture 1 of Convolutional Neural Network Model **
-**File CNN2.ipynb corresponds to the notebook of Architecture 2 of Convolutional Neural Network Model **
+**File CNN1.ipynb corresponds to the notebook of Architecture 1 of Convolutional Neural Network Model**
+
+**File CNN2.ipynb corresponds to the notebook of Architecture 2 of Convolutional Neural Network Model**
 
 ## Introduction to Cardiomegaly 
 Cardiomegaly, also known as an enlarged heart, is a medical condition characterized by an increase in the size of the heart. It is not a disease itself but rather a sign or symptom of an underlying cardiac disorder. Cardiomegaly can result from various conditions that put strain on the heart, such as hypertension (high blood pressure), coronary artery disease, heart valve problems, or cardiomyopathy (disease of the heart muscle).
