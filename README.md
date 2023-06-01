@@ -19,3 +19,6 @@ Early detection of cardiomegaly is crucial for timely intervention and managemen
 With advancements in medical imaging and machine learning techniques, there is growing interest in developing automated systems for the detection and prediction of cardiomegaly. These systems, often based on convolutional neural networks (CNNs) and other machine learning algorithms, aim to analyze medical images and aid in the early detection and accurate diagnosis of cardiomegaly, assisting healthcare professionals in providing better patient care.
 
 Further research and advancements in this field are necessary to improve the accuracy and reliability of cardiomegaly detection, which could potentially lead to better treatment outcomes and enhanced management of cardiac conditions.
+
+## Dataset Source 
+https://www.kaggle.com/datasets/rahimanshu/cardiomegaly-disease-prediction-using-cnn
